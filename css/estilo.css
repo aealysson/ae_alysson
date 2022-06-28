@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+h1{
+    position: absolute;
+    width:315px ;
+    height: 30px;
+    left: 24px;
+    top: 161px;
+
+
+}
+
+p{
+    position: absolute;
+    width:647px;
+    height:320px;
+    left: 693px;
+    top: 247px;
+    font-family: 'Sora', sans-serif; 
+    font-style: normal;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+    nav-down: current;
+}
+h2{
+   
+}
+p2{
+    position: absolute;
+    width:450px;
+    height:220px;
+    left: 950px;
+    top: 55px;
+    font-family: 'Sora', sans-serif; 
+    font-style: normal;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 45px;
+}
